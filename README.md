@@ -10,3 +10,5 @@
 CTH-npitx/CTH-npitx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+info-
+https://github.com/CHTechIndustries/links-and-notes
